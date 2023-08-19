@@ -1,3 +1,9 @@
-# Typing-Speed-Tester
-•	Designed to measure and improve a user's typing speed and accuracy. It provides an interactive and user-friendly platform for individuals to practice and enhance their typing skills.
+# js-simple-typing-game
 
+This is a typing game created using HTML, CSS and JavaScript that can be run in the browser.
+
+A guide was written for the GeeksForGeeks Technical Scripter contest where the process is described and the code is explained. Check out: [Design a typing speed test game using JavaScript](https://www.geeksforgeeks.org/design-a-typing-speed-test-game-using-javascript/)
+
+## Demonstration
+
+![Preview](images/demonstration.gif "Demonstration GIF")
